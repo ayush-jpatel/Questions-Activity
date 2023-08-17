@@ -11,6 +11,21 @@
  */
 class Solution {
 public:
+    int shreyt(TreeNode* root,int maxi)
+    {
+        int count = 0;
+        if(!root)
+            return 0;
+        if(root-> val >= maxi)
+        {
+            count++;
+            maxi = root->val;
+        }
+
+        return count+ shreyt(root->left,maxi)+ shreyt(root->right, maxi);
+    }
+
+
     int traverse(TreeNode* root,stack<int>& st )
     {
         int count = 0;
@@ -30,7 +45,8 @@ public:
         stack<int> st;
         if(!root)
             return 0;
-        int res = traverse(root, st);
+        int res = shreyt(root,-1e6);
+        // int res = traverse(root, st);
         return res;
     }
 };
