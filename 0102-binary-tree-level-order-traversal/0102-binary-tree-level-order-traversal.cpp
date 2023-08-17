@@ -21,8 +21,8 @@ public:
     {
         if(!root)
             return;
-        traverse(root->left,vec,dep+1);
         vec[dep].push_back(root->val);
+        traverse(root->left,vec,dep+1);
         traverse(root->right,vec,dep+1);
         return;
     }
