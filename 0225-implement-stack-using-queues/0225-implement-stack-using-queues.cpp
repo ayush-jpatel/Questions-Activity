@@ -1,88 +1,41 @@
 class MyStack {
 public:
-queue<int> q1;
-queue<int> q2;
-int ptr = 1;
+    queue<int> q;
     MyStack() {
         
     }
     
     void push(int x) {
-        if(ptr == 1)//1 means 1 has all elements, 2 is empty
-        {
-            q1.push(x);
-        }
-        else
-        {
-            q2.push(x);
-        }
+        q.push(x);
     }
     
     int pop() {
-        if(ptr == 1)
+        int n = q.size();
+        for(int i=0;i<n-1;i++)
         {
-            int n = q1.size();
-            for(int i=0;i<n-1;i++)
-            {
-                q2.push(q1.front());
-                q1.pop();
-            }
-            int temp = q1.front();
-            q1.pop();
-            ptr = 2;
-            return temp;
+            q.push(q.front());
+            q.pop();
         }
-        else
-        {
-            int n = q2.size();
-            for(int i=0;i<n-1;i++)
-            {
-                q1.push(q2.front());
-                q2.pop();
-            }
-            int temp = q2.front();
-            q2.pop();
-            ptr = 1;
-            return temp;
-        }
+        int temp = q.front();
+        q.pop();
+        return temp;
     }
     
     int top() {
-        if(ptr == 1)
+        int n = q.size();
+        for(int i=0;i<n-1;i++)
         {
-            int n = q1.size();
-            for(int i=0;i<n-1;i++)
-            {
-                q2.push(q1.front());
-                q1.pop();
-            }
-            int temp = q1.front();
-            q1.pop();
-            q2.push(temp);
-            ptr = 2;
-            return temp;
+            q.push(q.front());
+            q.pop();
         }
-        else
-        {
-            int n = q2.size();
-            for(int i=0;i<n-1;i++)
-            {
-                q1.push(q2.front());
-                q2.pop();
-            }
-            int temp = q2.front();
-            q2.pop();
-            q1.push(temp);
-            ptr = 1;
-            return temp;
-        }
+        int temp = q.front();
+        q.pop();
+        q.push(temp);
+        return temp;
     }
     
     bool empty() {
-        if(ptr == 1)
-            return q1.empty();
-        else
-            return q2.empty();
+        return q.empty();
     }
 };
 
