@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -73,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Hash Table
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
