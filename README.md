@@ -83,4 +83,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
+| [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
