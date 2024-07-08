@@ -88,4 +88,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
