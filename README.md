@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0053-maximum-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
 ## Stack
 |  |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
