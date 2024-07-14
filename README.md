@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
+| [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,10 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
