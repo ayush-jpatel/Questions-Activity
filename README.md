@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +117,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
