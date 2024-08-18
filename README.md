@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -86,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0273-integer-to-english-words) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0091-decode-ways) |
+| [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1196-filling-bookcase-shelves) |
 ## Stack
 |  |
