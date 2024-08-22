@@ -164,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0273-integer-to-english-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
