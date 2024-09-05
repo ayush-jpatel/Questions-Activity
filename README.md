@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1196-filling-bookcase-shelves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2155-find-missing-observations](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -97,10 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0273-integer-to-english-words) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
+| [2155-find-missing-observations](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
 ## String
