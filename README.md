@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1196-filling-bookcase-shelves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2155-find-missing-observations](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -176,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
