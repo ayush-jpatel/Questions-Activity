@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Queue
@@ -171,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0476-number-complement) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
