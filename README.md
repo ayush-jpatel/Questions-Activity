@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1370-count-number-of-nice-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0726-number-of-atoms) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2846-robot-collisions](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2846-robot-collisions) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayush-jpatel/Questions-Activity/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
