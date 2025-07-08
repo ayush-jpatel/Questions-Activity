@@ -145,14 +145,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Topological Sort
 |  |
@@ -188,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1798-max-number-of-k-sum-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
