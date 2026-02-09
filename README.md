@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0264-ugly-number-ii) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayush-jpatel/Questions-Activity/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayush-jpatel/Questions-Activity/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Topological Sort
 |  |
@@ -195,4 +198,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ayush-jpatel/Questions-Activity/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
